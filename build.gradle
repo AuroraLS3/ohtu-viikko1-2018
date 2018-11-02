@@ -12,9 +12,6 @@ apply plugin: 'java'
 // Apply the application plugin to add support for building an application
 apply plugin: 'application'
 
-// Test coverage plugin
-apply plugin: "jacoco"
-
 // In this section you declare where to find the dependencies of your project
 repositories {
     // Use jcenter for resolving your dependencies.
@@ -37,5 +34,16 @@ mainClassName = 'ohtu.ohtuvarasto.Main'
 jar {
     manifest {
         attributes 'Main-Class': 'ohtu.ohtuvarasto.Main'
+    }
+}
+
+// Test coverage plugin
+apply plugin: "jacoco"
+
+// Jacoco settings
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        html.enabled true
     }
 }
