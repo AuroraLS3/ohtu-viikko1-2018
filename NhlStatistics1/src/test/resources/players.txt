@@ -1,0 +1,1415 @@
+
+
+<!DOCTYPE html>
+
+
+
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/plain; charset=UTF-8">
+        <title>Nhl stats</title>
+    </head>
+
+    <body>
+
+        
+            Martin St Louis;TBL;48;17;43;14 <br/>
+        
+            Steven Stamkos;TBL;48;29;28;32 <br/>
+        
+            Alex Ovechkin;WSH;48;32;24;36 <br/>
+        
+            Sidney Crosby;PIT;36;15;41;16 <br/>
+        
+            Patrick Kane;CHI;47;23;32;8 <br/>
+        
+            Eric Staal;CAR;48;18;35;54 <br/>
+        
+            Chris Kunitz;PIT;48;22;30;39 <br/>
+        
+            Phil Kessel;TOR;48;20;32;18 <br/>
+        
+            Taylor Hall;EDM;45;16;34;33 <br/>
+        
+            Ryan Getzlaf;ANA;44;15;34;41 <br/>
+        
+            Pavel Datsyuk;DET;47;15;34;14 <br/>
+        
+            Mike Ribeiro;WSH;48;13;36;53 <br/>
+        
+            Jonathan Toews;CHI;47;23;25;27 <br/>
+        
+            Claude Giroux;PHI;48;13;35;22 <br/>
+        
+            Henrik Zetterberg;DET;46;11;37;18 <br/>
+        
+            Nicklas Backstrom;WSH;48;8;40;20 <br/>
+        
+            John Tavares;NYI;48;28;19;18 <br/>
+        
+            Jakub Voracek;PHI;48;22;24;35 <br/>
+        
+            Andrew Ladd;WPG;48;18;28;22 <br/>
+        
+            Henrik Sedin;VAN;48;11;34;24 <br/>
+        
+            Derek Stepan;NYR;48;18;26;12 <br/>
+        
+            Nazem Kadri;TOR;48;18;26;23 <br/>
+        
+            Matt Moulson;NYI;47;15;29;4 <br/>
+        
+            Alexander Semin;CAR;44;13;31;46 <br/>
+        
+            PA Parenteau;COL;48;18;25;38 <br/>
+        
+            Matt Duchene;COL;47;17;26;12 <br/>
+        
+            Rick Nash;NYR;44;21;21;26 <br/>
+        
+            Anze Kopitar;LAK;47;10;32;16 <br/>
+        
+            Thomas Vanek;BUF;38;20;21;20 <br/>
+        
+            Blake Wheeler;WPG;48;19;22;28 <br/>
+        
+            Daniel Sedin;VAN;47;12;28;18 <br/>
+        
+            Joe Thornton;SJS;48;7;33;26 <br/>
+        
+            Max Pacioretty;MTL;44;15;24;28 <br/>
+        
+            Jiri Tlusty;CAR;48;23;15;18 <br/>
+        
+            Pascal Dupuis;PIT;48;20;18;26 <br/>
+        
+            Zach Parise;MIN;48;18;20;16 <br/>
+        
+            Sam Gagner;EDM;48;14;24;23 <br/>
+        
+            P.K. Subban;MTL;42;11;27;57 <br/>
+        
+            Kris Letang;PIT;35;5;33;8 <br/>
+        
+            Logan Couture;SJS;48;21;16;4 <br/>
+        
+            Jordan Eberle;EDM;48;16;21;16 <br/>
+        
+            Mikko Koivu;MIN;48;11;26;26 <br/>
+        
+            James Neal;PIT;40;21;15;26 <br/>
+        
+            Chris Stewart;STL;48;18;18;40 <br/>
+        
+            Brad Marchand;BOS;45;18;18;27 <br/>
+        
+            Corey Perry;ANA;44;15;21;72 <br/>
+        
+            Patrik Elias;NJD;48;14;22;22 <br/>
+        
+            Teddy Purcell;TBL;48;11;25;12 <br/>
+        
+            Jaromir Jagr;DAL, BOS;45;16;19;22 <br/>
+        
+            Michael Ryder;DAL, MTL;46;16;19;16 <br/>
+        
+            Tomas Fleischmann;FLA;48;12;23;16 <br/>
+        
+            Brad Boyes;NYI;48;10;25;16 <br/>
+        
+            Cody Hodgson;BUF;48;15;19;20 <br/>
+        
+            Jason Pominville;BUF, MIN;47;14;20;8 <br/>
+        
+            Brad Richards;NYR;46;11;23;14 <br/>
+        
+            Jeff Carter;LAK;48;26;7;16 <br/>
+        
+            Troy Brouwer;WSH;47;19;14;28 <br/>
+        
+            Evander Kane;WPG;48;17;16;80 <br/>
+        
+            Tomas Plekanec;MTL;47;14;19;24 <br/>
+        
+            Jarome Iginla;CGY, PIT;44;14;19;31 <br/>
+        
+            Jamie Benn;DAL;41;12;21;40 <br/>
+        
+            Justin Williams;LAK;48;11;22;22 <br/>
+        
+            David Krejci;BOS;47;10;23;20 <br/>
+        
+            Evgeni Malkin;PIT;31;9;24;36 <br/>
+        
+            James van Riemsdyk;TOR;48;18;14;26 <br/>
+        
+            Tyler Seguin;BOS;48;16;16;16 <br/>
+        
+            Wayne Simmonds;PHI;45;15;17;82 <br/>
+        
+            Mike Cammalleri;CGY;44;13;19;25 <br/>
+        
+            Mike Richards;LAK;48;12;20;42 <br/>
+        
+            Vincent Lecavalier;TBL;39;10;22;29 <br/>
+        
+            Patrice Bergeron;BOS;42;10;22;18 <br/>
+        
+            Lee Stempniak;CGY;47;9;23;12 <br/>
+        
+            Bryan Little;WPG;48;7;25;4 <br/>
+        
+            Ryan Suter;MIN;48;4;28;24 <br/>
+        
+            Patrick Marleau;SJS;48;17;14;24 <br/>
+        
+            Nail Yakupov;EDM;48;17;14;24 <br/>
+        
+            Marian Hossa;CHI;40;17;14;16 <br/>
+        
+            Joe Pavelski;SJS;48;16;15;10 <br/>
+        
+            Ryan Callahan;NYR;45;16;15;12 <br/>
+        
+            Jonathan Huberdeau;FLA;48;14;17;18 <br/>
+        
+            Johan Franzen;DET;41;14;17;41 <br/>
+        
+            Ilya Kovalchuk;NJD;37;11;20;18 <br/>
+        
+            Tyler Ennis;BUF;47;10;21;16 <br/>
+        
+            Jordan Staal;CAR;48;10;21;32 <br/>
+        
+            Vinny Prospal;CBJ;48;12;18;32 <br/>
+        
+            Bobby Ryan;ANA;46;11;19;17 <br/>
+        
+            Keith Yandle;PHX;48;10;20;54 <br/>
+        
+            Andrei Markov;MTL;48;10;20;14 <br/>
+        
+            Lars Eller;MTL;46;8;22;45 <br/>
+        
+            Dustin Brown;LAK;46;18;11;22 <br/>
+        
+            Kyle Turris;OTT;48;12;17;24 <br/>
+        
+            Loui Eriksson;DAL;48;12;17;8 <br/>
+        
+            Derick Brassard;CBJ, NYR;47;12;17;16 <br/>
+        
+            Cory Conacher;TBL, OTT;47;11;18;20 <br/>
+        
+            Ray Whitney;DAL;32;11;18;4 <br/>
+        
+            Frans Nielsen;NYI;48;6;23;12 <br/>
+        
+            Kimmo Timonen;PHI;45;5;24;36 <br/>
+        
+            Niklas Kronwall;DET;48;5;24;44 <br/>
+        
+            Cody Franson;TOR;45;4;25;8 <br/>
+        
+            Brendan Gallagher;MTL;44;15;13;33 <br/>
+        
+            Radim Vrbata;PHX;34;12;16;14 <br/>
+        
+            Tyler Bozak;TOR;46;12;16;6 <br/>
+        
+            David Desharnais;MTL;48;10;18;26 <br/>
+        
+            Dion Phaneuf;TOR;48;9;19;65 <br/>
+        
+            Shea Weber;NSH;48;9;19;48 <br/>
+        
+            Dustin Byfuglien;WPG;43;8;20;34 <br/>
+        
+            Derek Roy;DAL, VAN;42;7;21;6 <br/>
+        
+            David Backes;STL;48;6;22;62 <br/>
+        
+            Tomas Kopecky;FLA;47;15;12;28 <br/>
+        
+            Mark Letestu;CBJ;46;13;14;10 <br/>
+        
+            Shane Doan;PHX;48;13;14;37 <br/>
+        
+            Devin Setoguchi;MIN;48;13;14;20 <br/>
+        
+            Marian Gaborik;NYR, CBJ;47;12;15;14 <br/>
+        
+            Alex Tanguay;CGY;40;11;16;22 <br/>
+        
+            Jiri Hudler;CGY;42;10;17;22 <br/>
+        
+            Jannik Hansen;VAN;47;10;17;8 <br/>
+        
+            Brandon Saad;CHI;46;10;17;12 <br/>
+        
+            Alex Galchenyuk;MTL;48;9;18;20 <br/>
+        
+            Justin Schultz;EDM;48;8;19;8 <br/>
+        
+            Alexander Steen;STL;40;8;19;14 <br/>
+        
+            Brian Campbell;FLA;48;8;19;12 <br/>
+        
+            Saku Koivu;ANA;47;8;19;18 <br/>
+        
+            Matt Cullen;MIN;42;7;20;10 <br/>
+        
+            Milan Lucic;BOS;46;7;20;75 <br/>
+        
+            Mark Streit;NYI;48;6;21;22 <br/>
+        
+            Duncan Keith;CHI;47;3;24;31 <br/>
+        
+            Sergei Gonchar;OTT;45;3;24;26 <br/>
+        
+            Alex Goligoski;DAL;47;3;24;18 <br/>
+        
+            Curtis Glencross;CGY;40;15;11;18 <br/>
+        
+            Brian Gionta;MTL;48;14;12;8 <br/>
+        
+            Mike Green;WSH;35;12;14;20 <br/>
+        
+            Damien Brunner;DET;44;12;14;12 <br/>
+        
+            Daniel Alfredsson;OTT;47;10;16;33 <br/>
+        
+            Brayden Schenn;PHI;47;8;18;24 <br/>
+        
+            Mikkel Boedker;PHX;48;7;19;12 <br/>
+        
+            Patrik Berglund;STL;48;17;8;12 <br/>
+        
+            Brenden Morrow;DAL, PIT;44;12;13;37 <br/>
+        
+            David Legwand;NSH;48;12;13;20 <br/>
+        
+            David Perron;STL;48;10;15;44 <br/>
+        
+            Slava Voynov;LAK;48;6;19;14 <br/>
+        
+            David Clarkson;NJD;48;15;9;78 <br/>
+        
+            Alexandre Burrows;VAN;47;13;11;54 <br/>
+        
+            Jeff Skinner;CAR;42;13;11;26 <br/>
+        
+            Teemu Selanne;ANA;46;12;12;28 <br/>
+        
+            Matt Read;PHI;42;11;13;2 <br/>
+        
+            Carl Hagelin;NYR;48;10;14;18 <br/>
+        
+            Steve Ott;BUF;48;9;15;93 <br/>
+        
+            Paul Stastny;COL;40;9;15;14 <br/>
+        
+            Cody Eakin;DAL;48;7;17;31 <br/>
+        
+            Francois Beauchemin;ANA;48;6;18;22 <br/>
+        
+            Martin Erat;NSH, WSH;45;5;19;30 <br/>
+        
+            Alex Pietrangelo;STL;47;5;19;10 <br/>
+        
+            Dan Hamhuis;VAN;47;4;20;12 <br/>
+        
+            Kyle Okposo;NYI;48;4;20;38 <br/>
+        
+            Ryan Nugent-Hopkins;EDM;40;4;20;8 <br/>
+        
+            Oliver Ekman-Larsson;PHX;48;3;21;26 <br/>
+        
+            Andrew Cogliano;ANA;48;13;10;6 <br/>
+        
+            Martin Hanzal;PHX;39;11;12;24 <br/>
+        
+            Viktor Stalberg;CHI;47;9;14;25 <br/>
+        
+            Bryan Bickell;CHI;48;9;14;25 <br/>
+        
+            Nikolai Kulemin;TOR;48;7;16;22 <br/>
+        
+            Paul Martin;PIT;34;6;17;16 <br/>
+        
+            Kevin Shattenkirk;STL;48;5;18;20 <br/>
+        
+            Matt Stajan;CGY;43;5;18;26 <br/>
+        
+            Jussi Jokinen;CAR, PIT;43;13;9;24 <br/>
+        
+            Nathan Horton;BOS;43;13;9;22 <br/>
+        
+            Jamie McGinn;COL;47;11;11;26 <br/>
+        
+            Mason Raymond;VAN;46;10;12;16 <br/>
+        
+            Alexander Edler;VAN;45;8;14;37 <br/>
+        
+            Jay Bouwmeester;CGY, STL;47;7;15;22 <br/>
+        
+            John Carlson;WSH;48;6;16;18 <br/>
+        
+            Drew Doughty;LAK;48;6;16;36 <br/>
+        
+            Dennis Wideman;CGY;46;6;16;12 <br/>
+        
+            Marcus Johansson;WSH;34;6;16;4 <br/>
+        
+            Matthew Carle;TBL;48;5;17;4 <br/>
+        
+            Christian Ehrhoff;BUF;47;5;17;34 <br/>
+        
+            Fedor Tyutin;CBJ;48;4;18;28 <br/>
+        
+            Michael Grabner;NYI;45;16;5;12 <br/>
+        
+            Shawn Matthias;FLA;48;14;7;16 <br/>
+        
+            Antoine Vermette;PHX;48;13;8;36 <br/>
+        
+            Dany Heatley;MIN;36;11;10;8 <br/>
+        
+            Kyle Palmieri;ANA;42;10;11;9 <br/>
+        
+            Mike Fisher;NSH;38;10;11;27 <br/>
+        
+            Matt Cooke;PIT;48;8;13;36 <br/>
+        
+            Andy McDonald;STL;37;7;14;16 <br/>
+        
+            Michael Del Zotto;NYR;46;3;18;18 <br/>
+        
+            John Mitchell;COL;47;10;10;18 <br/>
+        
+            Brent Burns;SJS;30;9;11;20 <br/>
+        
+            Ales Hemsky;EDM;38;9;11;16 <br/>
+        
+            Joel Ward;WSH;39;8;12;12 <br/>
+        
+            Brent Seabrook;CHI;47;8;12;23 <br/>
+        
+            Clarke MacArthur;TOR;40;8;12;26 <br/>
+        
+            Benoit Pouliot;TBL;34;8;12;15 <br/>
+        
+            Pierre-Marc Bouchard;MIN;43;8;12;8 <br/>
+        
+            Mika Zibanejad;OTT;42;7;13;6 <br/>
+        
+            T.J. Oshie;STL;30;7;13;15 <br/>
+        
+            Travis Zajac;NJD;48;7;13;22 <br/>
+        
+            Dan Boyle;SJS;46;7;13;27 <br/>
+        
+            Ryan O'Reilly;COL;29;6;14;4 <br/>
+        
+            Patrick Sharp;CHI;28;6;14;14 <br/>
+        
+            David Moss;PHX;45;5;15;21 <br/>
+        
+            Victor Hedman;TBL;44;4;16;31 <br/>
+        
+            Brandon Dubinsky;CBJ;29;2;18;76 <br/>
+        
+            Josh Bailey;NYI;38;11;8;6 <br/>
+        
+            Brandon Sutter;PIT;48;11;8;4 <br/>
+        
+            Jakob Silfverberg;OTT;48;10;9;12 <br/>
+        
+            Marcel Goc;FLA;42;9;10;8 <br/>
+        
+            Vladimir Tarasenko;STL;38;8;11;10 <br/>
+        
+            Colin Greening;OTT;47;8;11;11 <br/>
+        
+            Vladimir Sobotka;STL;48;8;11;35 <br/>
+        
+            Alex Killorn;TBL;38;7;12;14 <br/>
+        
+            Zdeno Chara;BOS;48;7;12;70 <br/>
+        
+            Colin Wilson;NSH;25;7;12;4 <br/>
+        
+            Nick Foligno;CBJ;45;6;13;28 <br/>
+        
+            Daniel Winnik;ANA;48;6;13;16 <br/>
+        
+            Patrick Wiercioch;OTT;42;5;14;39 <br/>
+        
+            Jack Johnson;CBJ;44;5;14;12 <br/>
+        
+            Marek Zidlicky;NJD;48;4;15;38 <br/>
+        
+            Ryan McDonagh;NYR;47;4;15;22 <br/>
+        
+            Ryane Clowe;SJS, NYR;40;3;16;93 <br/>
+        
+            Artem Anisimov;CBJ;35;11;7;12 <br/>
+        
+            Joffrey Lupul;TOR;16;11;7;12 <br/>
+        
+            Cam Atkinson;CBJ;35;9;9;4 <br/>
+        
+            Martin Havlat;SJS;40;8;10;30 <br/>
+        
+            RJ Umberger;CBJ;48;8;10;16 <br/>
+        
+            Raffi Torres;PHX, SJS;39;7;11;17 <br/>
+        
+            Jarret Stoll;LAK;48;7;11;28 <br/>
+        
+            Nick Leddy;CHI;48;6;12;10 <br/>
+        
+            Drew Stafford;BUF;46;6;12;21 <br/>
+        
+            Rich Peverley;BOS;47;6;12;16 <br/>
+        
+            Nik Antropov;WPG;40;6;12;16 <br/>
+        
+            Roman Josi;NSH;48;5;13;8 <br/>
+        
+            Marcus Foligno;BUF;47;5;13;41 <br/>
+        
+            Daniel Paille;BOS;46;10;7;8 <br/>
+        
+            Eric Fehr;WSH;41;9;8;10 <br/>
+        
+            Roman Cervenka;CGY;39;9;8;14 <br/>
+        
+            Valtteri Filppula;DET;41;9;8;6 <br/>
+        
+            Gabriel Landeskog;COL;36;9;8;22 <br/>
+        
+            Peter Mueller;FLA;43;8;9;18 <br/>
+        
+            Jay McClement;TOR;48;8;9;11 <br/>
+        
+            Sheldon Souray;ANA;44;7;10;52 <br/>
+        
+            Steve Sullivan;PHX, NJD;42;7;10;24 <br/>
+        
+            Colin McDonald;NYI;45;7;10;32 <br/>
+        
+            Joe Corvo;CAR;40;6;11;14 <br/>
+        
+            Mathieu Perreault;WSH;39;6;11;20 <br/>
+        
+            Dennis Seidenberg;BOS;46;4;13;10 <br/>
+        
+            Vernon Fiddler;DAL;46;4;13;48 <br/>
+        
+            Sami Salo;TBL;46;2;15;16 <br/>
+        
+            Adam Henrique;NJD;42;11;5;16 <br/>
+        
+            Gabriel Bourque;NSH;34;11;5;4 <br/>
+        
+            Magnus Paajarvi;EDM;42;9;7;14 <br/>
+        
+            Mikhail Grabovski;TOR;48;9;7;24 <br/>
+        
+            Matt Calvert;CBJ;42;9;7;32 <br/>
+        
+            Patrick Dwyer;CAR;46;8;8;12 <br/>
+        
+            Mikael Backlund;CGY;32;8;8;29 <br/>
+        
+            Jason Garrison;VAN;47;8;8;28 <br/>
+        
+            Tom Pyatt;TBL;43;8;8;12 <br/>
+        
+            Jake Muzzin;LAK;45;7;9;35 <br/>
+        
+            Danny Briere;PHI;34;6;10;10 <br/>
+        
+            Simon Gagne;LAK, PHI;38;5;11;8 <br/>
+        
+            Dougie Hamilton;BOS;42;5;11;14 <br/>
+        
+            Andy Greene;NJD;48;4;12;20 <br/>
+        
+            Grant Clitsome;WPG;44;4;12;18 <br/>
+        
+            Chris Higgins;VAN;41;10;5;10 <br/>
+        
+            Daniel Cleary;DET;48;9;6;40 <br/>
+        
+            Andrew Shaw;CHI;48;9;6;38 <br/>
+        
+            Steve Bernier;NJD;47;8;7;17 <br/>
+        
+            Nate Thompson;TBL;45;7;8;17 <br/>
+        
+            Casey Cizikas;NYI;45;6;9;14 <br/>
+        
+            Ryan Carter;NJD;44;6;9;31 <br/>
+        
+            Kyle Wellwood;WPG;39;6;9;2 <br/>
+        
+            Jared Spurgeon;MIN;39;5;10;4 <br/>
+        
+            Justin Faulk;CAR;38;5;10;15 <br/>
+        
+            Sean Couturier;PHI;46;4;11;10 <br/>
+        
+            Tobias Enstrom;WPG;22;4;11;8 <br/>
+        
+            Zack Smith;OTT;48;4;11;56 <br/>
+        
+            Mark Giordano;CGY;47;4;11;40 <br/>
+        
+            Sergei Kostitsyn;NSH;46;3;12;11 <br/>
+        
+            Scott Gomez;SJS;39;2;13;22 <br/>
+        
+            Carl Gunnarsson;TOR;37;1;14;14 <br/>
+        
+            Charlie Coyle;MIN;37;8;6;28 <br/>
+        
+            Antoine Roussel;DAL;39;7;7;85 <br/>
+        
+            Kyle Clifford;LAK;48;7;7;51 <br/>
+        
+            Dave Bolland;CHI;35;7;7;22 <br/>
+        
+            Olli Jokinen;WPG;45;7;7;14 <br/>
+        
+            Erik Karlsson;OTT;17;6;8;8 <br/>
+        
+            Zach Bogosian;WPG;33;5;9;29 <br/>
+        
+            James Wisniewski;CBJ;30;5;9;15 <br/>
+        
+            Chris Phillips;OTT;48;5;9;43 <br/>
+        
+            TJ Galiardi;SJS;36;5;9;14 <br/>
+        
+            Trevor Lewis;LAK;48;5;9;19 <br/>
+        
+            Kyle Chipchura;PHX;46;5;9;50 <br/>
+        
+            Brandon Prust;MTL;38;5;9;110 <br/>
+        
+            Jochen Hecht;BUF;47;5;9;18 <br/>
+        
+            Matt Niskanen;PIT;40;4;10;12 <br/>
+        
+            Milan Michalek;OTT;23;4;10;17 <br/>
+        
+            Patric Hornqvist;NSH;24;4;10;14 <br/>
+        
+            Boyd Gordon;PHX;48;4;10;8 <br/>
+        
+            Stephen Gionta;NJD;48;4;10;14 <br/>
+        
+            Beau Bennett;PIT;26;3;11;6 <br/>
+        
+            Lubomir Visnovsky;NYI;35;3;11;20 <br/>
+        
+            Jason Chimera;WSH;47;3;11;48 <br/>
+        
+            Kevin Klein;NSH;47;3;11;9 <br/>
+        
+            TJ Brodie;CGY;47;2;12;8 <br/>
+        
+            Dan Girardi;NYR;46;2;12;16 <br/>
+        
+            Dustin Penner;LAK;33;2;12;18 <br/>
+        
+            Raphael Diaz;MTL;23;1;13;6 <br/>
+        
+            Justin Abdelkader;DET;48;10;3;34 <br/>
+        
+            Erik Cole;MTL, DAL;47;9;4;20 <br/>
+        
+            Nick Spaling;NSH;47;9;4;18 <br/>
+        
+            Matt Beleskey;ANA;42;8;5;56 <br/>
+        
+            Matt Frattin;TOR;25;7;6;4 <br/>
+        
+            Rene Bourque;MTL;27;7;6;32 <br/>
+        
+            Jaden Schwartz;STL;45;7;6;4 <br/>
+        
+            Nick Bonino;ANA;27;5;8;8 <br/>
+        
+            Tommy Wingels;SJS;42;5;8;26 <br/>
+        
+            Ryan Kesler;VAN;17;4;9;12 <br/>
+        
+            Jakub Kindl;DET;41;4;9;28 <br/>
+        
+            Andrew Ference;BOS;48;4;9;35 <br/>
+        
+            Marcus Kruger;CHI;47;4;9;24 <br/>
+        
+            Gregory Campbell;BOS;48;4;9;41 <br/>
+        
+            Ryan Whitney;EDM;34;4;9;23 <br/>
+        
+            Trevor Daley;DAL;44;4;9;14 <br/>
+        
+            Ruslan Fedotenko;PHI;47;4;9;12 <br/>
+        
+            Drew Shore;FLA;43;3;10;14 <br/>
+        
+            Tom Gilbert;MIN;43;3;10;18 <br/>
+        
+            Jonathan Ericsson;DET;45;3;10;29 <br/>
+        
+            Tyson Barrie;COL;32;2;11;10 <br/>
+        
+            Ryan Smyth;EDM;47;2;11;40 <br/>
+        
+            Stephane Robidas;DAL;48;1;12;56 <br/>
+        
+            Ron Hainsey;WPG;47;0;13;10 <br/>
+        
+            Andrei Loktionov;NJD;28;8;4;4 <br/>
+        
+            Kyle Brodziak;MIN;48;8;4;20 <br/>
+        
+            Cody McLeod;COL;48;8;4;83 <br/>
+        
+            Shawn Horcoff;EDM;31;7;5;24 <br/>
+        
+            Matt Irwin;SJS;38;6;6;10 <br/>
+        
+            Kevin Bieksa;VAN;36;6;6;48 <br/>
+        
+            Keith Aucoin;NYI;41;6;6;4 <br/>
+        
+            Blake Comeau;CGY, CBJ;42;6;6;20 <br/>
+        
+            Ryan Johansen;CBJ;40;5;7;12 <br/>
+        
+            Eric Brewer;TBL;48;4;8;30 <br/>
+        
+            Chris Neil;OTT;48;4;8;144 <br/>
+        
+            Erik Condra;OTT;48;4;8;34 <br/>
+        
+            Craig Smith;NSH;44;4;8;20 <br/>
+        
+            Johnny Oduya;CHI;48;3;9;10 <br/>
+        
+            Andrew MacDonald;NYI;48;3;9;20 <br/>
+        
+            Jeff Petry;EDM;48;3;9;29 <br/>
+        
+            Barret Jackman;STL;46;3;9;39 <br/>
+        
+            Alexei Emelin;MTL;38;3;9;33 <br/>
+        
+            Jack Skille;FLA;40;3;9;11 <br/>
+        
+            Andrej Sekera;BUF;37;2;10;4 <br/>
+        
+            Rob Scuderi;LAK;48;1;11;4 <br/>
+        
+            Michal Rozsival;CHI;27;0;12;14 <br/>
+        
+            Scott Hartnell;PHI;32;8;3;70 <br/>
+        
+            Zack Kassian;VAN;39;7;4;51 <br/>
+        
+            Eric Nystrom;DAL;48;7;4;61 <br/>
+        
+            Brian Flynn;BUF;26;6;5;0 <br/>
+        
+            Tyler Kennedy;PIT;46;6;5;19 <br/>
+        
+            Taylor Pyatt;NYR;48;6;5;6 <br/>
+        
+            Lauri Korpikoski;PHX;36;6;5;12 <br/>
+        
+            Rob Klinkhammer;PHX;22;5;6;10 <br/>
+        
+            Matt Halischuk;NSH;36;5;6;10 <br/>
+        
+            Bobby Butler;NJD, NSH;34;4;7;4 <br/>
+        
+            Matt Martin;NYI;48;4;7;63 <br/>
+        
+            Milan Hejduk;COL;29;4;7;0 <br/>
+        
+            Luke Schenn;PHI;47;3;8;34 <br/>
+        
+            Jonas Brodin;MIN;45;2;9;10 <br/>
+        
+            Marc Methot;OTT;47;2;9;31 <br/>
+        
+            John-Michael Liles;TOR;32;2;9;4 <br/>
+        
+            Marc Staal;NYR;21;2;9;14 <br/>
+        
+            Cam Fowler;ANA;37;1;10;4 <br/>
+        
+            Derek Morris;PHX;39;0;11;36 <br/>
+        
+            Guillaume Latendresse;OTT;27;6;4;8 <br/>
+        
+            Brenden  Morrow;DAL;20;5;5;12 <br/>
+        
+            Nathan Gerbe;BUF;42;5;5;14 <br/>
+        
+            Maxime Talbot;PHI;35;5;5;23 <br/>
+        
+            Cal Clutterbuck;MIN;42;4;6;27 <br/>
+        
+            Maxim Lapierre;VAN;48;4;6;45 <br/>
+        
+            Alexander Burmistrov;WPG;44;4;6;14 <br/>
+        
+            Dwight King;LAK;47;4;6;11 <br/>
+        
+            Dmitry Kulikov;FLA;34;3;7;22 <br/>
+        
+            TJ Brennan;BUF, FLA;29;3;7;8 <br/>
+        
+            Emerson Etem;ANA;38;3;7;9 <br/>
+        
+            Michael Frolik;CHI;45;3;7;8 <br/>
+        
+            Travis Hamonic;NYI;48;3;7;28 <br/>
+        
+            Ryan Garbutt;DAL;36;3;7;32 <br/>
+        
+            Sven Baertschi;CGY;20;3;7;6 <br/>
+        
+            Andre Benoit;OTT;33;3;7;8 <br/>
+        
+            Jay Harrison;CAR;47;3;7;51 <br/>
+        
+            Niklas Hjalmarsson;CHI;46;2;8;22 <br/>
+        
+            Jordan Leopold;BUF, STL;39;2;8;14 <br/>
+        
+            Filip Kuba;FLA;44;1;9;24 <br/>
+        
+            Jan Hejda;COL;46;1;9;28 <br/>
+        
+            Ben Lovejoy;PIT, ANA;35;0;10;29 <br/>
+        
+            Clayton Stoner;MIN;48;0;10;42 <br/>
+        
+            Richard Panik;TBL;25;5;4;4 <br/>
+        
+            Michael Stone;PHX;40;5;4;16 <br/>
+        
+            Chuck Kobasew;COL;37;5;4;21 <br/>
+        
+            Kevin Porter;BUF;31;4;5;10 <br/>
+        
+            Rich Clune;NSH;47;4;5;113 <br/>
+        
+            Riley Nash;CAR;32;4;5;8 <br/>
+        
+            Tuomo Ruutu;CAR;17;4;5;8 <br/>
+        
+            Wojtek Wolski;WSH;27;4;5;6 <br/>
+        
+            Paul Postma;WPG;34;4;5;6 <br/>
+        
+            Alexei Ponikarovsky;WPG, NJD;42;4;5;14 <br/>
+        
+            Leo Komarov;TOR;42;4;5;18 <br/>
+        
+            Jordan Schroeder;VAN;31;3;6;4 <br/>
+        
+            Craig Adams;PIT;48;3;6;28 <br/>
+        
+            Reilly Smith;DAL;37;3;6;8 <br/>
+        
+            Chris Kelly;BOS;34;3;6;16 <br/>
+        
+            Derek Dorsett;CBJ;24;3;6;53 <br/>
+        
+            David Jones;COL;33;3;6;6 <br/>
+        
+            Lennart Petrell;EDM;35;3;6;4 <br/>
+        
+            Nikita Nikitin;CBJ;38;3;6;17 <br/>
+        
+            Jack Hillen;WSH;23;3;6;14 <br/>
+        
+            Aaron Palushaj;COL;25;2;7;8 <br/>
+        
+            Dainius Zubrus;NJD;22;2;7;12 <br/>
+        
+            Josh Gorges;MTL;48;2;7;15 <br/>
+        
+            Mike Weaver;FLA;27;1;8;8 <br/>
+        
+            Steve Oleksy;WSH;28;1;8;33 <br/>
+        
+            Joni Pitkanen;CAR;22;1;8;12 <br/>
+        
+            Francis Bouillon;MTL;48;1;8;21 <br/>
+        
+            Nick Schultz;EDM;48;1;8;24 <br/>
+        
+            Marc-Andre Bergeron;TBL, CAR;25;1;8;9 <br/>
+        
+            Tim Gleason;CAR;42;0;9;40 <br/>
+        
+            Ryan Malone;TBL;24;6;2;22 <br/>
+        
+            Matt Hendricks;WSH;48;5;3;73 <br/>
+        
+            Cory Emmerton;DET;48;5;3;4 <br/>
+        
+            Mike Knuble;PHI;28;4;4;20 <br/>
+        
+            Matthew Lombardi;PHX, ANA;28;4;4;8 <br/>
+        
+            Drew Miller;DET;44;4;4;2 <br/>
+        
+            Torrey Mitchell;MIN;45;4;4;21 <br/>
+        
+            Steve Begin;CGY;36;4;4;22 <br/>
+        
+            Erik Gustafsson;PHI;27;3;5;2 <br/>
+        
+            Joakim Andersson;DET;38;3;5;8 <br/>
+        
+            Mats Zuccarello;NYR;15;3;5;8 <br/>
+        
+            Tyler Myers;BUF;39;3;5;32 <br/>
+        
+            Brenden Dillon;DAL;48;3;5;65 <br/>
+        
+            Brandon Yip;NSH;34;3;5;26 <br/>
+        
+            Jordin Tootoo;DET;42;3;5;78 <br/>
+        
+            Derek MacKenzie;CBJ;43;3;5;36 <br/>
+        
+            Patrick Eaves;DET;34;2;6;4 <br/>
+        
+            Chris Porter;STL;29;2;6;0 <br/>
+        
+            Mikael Granlund;MIN;27;2;6;6 <br/>
+        
+            Rostislav Klesla;PHX;38;2;6;22 <br/>
+        
+            Jay Beagle;WSH;48;2;6;14 <br/>
+        
+            Michal Handzus;SJS, CHI;39;2;6;16 <br/>
+        
+            Jamie McBain;CAR;40;1;7;12 <br/>
+        
+            Chris Butler;CGY;44;1;7;19 <br/>
+        
+            Luca Sbisa;ANA;41;1;7;23 <br/>
+        
+            B.J. Crombeen;TBL;44;1;7;112 <br/>
+        
+            Mark Fraser;TOR;45;0;8;85 <br/>
+        
+            Brooks Orpik;PIT;46;0;8;32 <br/>
+        
+            Michael Kostka;TOR;35;0;8;27 <br/>
+        
+            Brendan Smith;DET;34;0;8;36 <br/>
+        
+            Alex Chiasson;DAL;7;6;1;0 <br/>
+        
+            Tomas Tatar;DET;18;4;3;4 <br/>
+        
+            Anton Stralman;NYR;48;4;3;16 <br/>
+        
+            Taylor Beck;NSH;16;3;4;2 <br/>
+        
+            Wade Redden;STL, BOS;29;3;4;11 <br/>
+        
+            Marc-Edouard Vlasic;SJS;48;3;4;29 <br/>
+        
+            Shawn Thornton;BOS;45;3;4;60 <br/>
+        
+            Ryan Jones;EDM;27;2;5;17 <br/>
+        
+            Keith Aulie;TBL;45;2;5;60 <br/>
+        
+            Colin Fraser;LAK;34;2;5;25 <br/>
+        
+            Simon Despres;PIT;33;2;5;20 <br/>
+        
+            Christopher Tanev;VAN;38;2;5;10 <br/>
+        
+            Davis Drewiske;LAK, MTL;29;2;5;14 <br/>
+        
+            Roman Horak;CGY;20;2;5;2 <br/>
+        
+            David Steckel;TOR, ANA;34;1;6;4 <br/>
+        
+            Dalton Prout;CBJ;28;1;6;25 <br/>
+        
+            Tomas Kundratek;WSH;25;1;6;8 <br/>
+        
+            Mike Weber;BUF;42;1;6;70 <br/>
+        
+            Jonathon Blum;NSH;35;1;6;6 <br/>
+        
+            John Moore;CBJ, NYR;30;1;6;7 <br/>
+        
+            Kris Russell;STL;33;1;6;9 <br/>
+        
+            Victor Bartley;NSH;24;0;7;6 <br/>
+        
+            Justin Braun;SJS;41;0;7;6 <br/>
+        
+            Jim O'Brien;OTT;29;5;1;8 <br/>
+        
+            Nick Johnson;PHX;17;4;2;0 <br/>
+        
+            Mark Olver;COL;32;4;2;6 <br/>
+        
+            Ryan Reaves;STL;43;4;2;79 <br/>
+        
+            Tyler Johnson;TBL;14;3;3;4 <br/>
+        
+            Matt D'Agostini;STL, NJD;29;3;3;8 <br/>
+        
+            Gustav Nyquist;DET;22;3;3;6 <br/>
+        
+            John Erskine;WSH;30;3;3;34 <br/>
+        
+            Jerred Smithson;FLA, EDM;45;3;3;12 <br/>
+        
+            Dustin Jeffrey;PIT;24;3;3;2 <br/>
+        
+            Dale Weise;VAN;40;3;3;43 <br/>
+        
+            Adam Cracknell;STL;20;2;4;4 <br/>
+        
+            Ville Leino;BUF;8;2;4;6 <br/>
+        
+            Eric Gryba;OTT;33;2;4;26 <br/>
+        
+            Ryan Ellis;NSH;32;2;4;15 <br/>
+        
+            Jordan Nolan;LAK;44;2;4;46 <br/>
+        
+            Ryan O'Byrne;COL, TOR;42;2;4;60 <br/>
+        
+            Bobby Sanguinetti;CAR;37;2;4;4 <br/>
+        
+            Jared Boll;CBJ;43;2;4;100 <br/>
+        
+            Travis Moen;MTL;45;2;4;32 <br/>
+        
+            Bruno Gervais;PHI;37;1;5;10 <br/>
+        
+            Brad Richardson;LAK;16;1;5;10 <br/>
+        
+            David Schlemko;PHX;30;1;5;12 <br/>
+        
+            Johnny Boychuk;BOS;44;1;5;12 <br/>
+        
+            Andrew Ebbett;VAN;28;1;5;4 <br/>
+        
+            Jordie Benn;DAL;26;1;5;10 <br/>
+        
+            Douglas Murray;SJS, PIT;43;1;5;35 <br/>
+        
+            Roman Polak;STL;48;1;5;48 <br/>
+        
+            Mark Fayne;NJD;31;1;5;16 <br/>
+        
+            Adam Larsson;NJD;37;0;6;12 <br/>
+        
+            Matt Hunwick;COL;43;0;6;16 <br/>
+        
+            Mark Fistric;EDM;25;0;6;32 <br/>
+        
+            Greg Zanon;COL;44;0;6;28 <br/>
+        
+            Toni Lydman;ANA;35;0;6;12 <br/>
+        
+            Bryan Allen;ANA;41;0;6;34 <br/>
+        
+            Deryk Engelland;PIT;42;0;6;54 <br/>
+        
+            Brad Stuart;SJS;48;0;6;25 <br/>
+        
+            Paul Bissonnette;PHX;28;0;6;36 <br/>
+        
+            Jason Zucker;MIN;20;4;1;8 <br/>
+        
+            Scottie Upshall;FLA;27;4;1;25 <br/>
+        
+            Antti Miettinen;WPG;22;3;2;2 <br/>
+        
+            Peter Holland;ANA;21;3;2;4 <br/>
+        
+            Tye McGinn;PHI;18;3;2;19 <br/>
+        
+            Zac Rinaldo;PHI;32;3;2;85 <br/>
+        
+            Frazer McLaren;SJS, TOR;36;3;2;102 <br/>
+        
+            Drayson Bowman;CAR;37;3;2;17 <br/>
+        
+            Alexander Killorn;TBL;9;2;3;4 <br/>
+        
+            Peter Harrold;NJD;23;2;3;6 <br/>
+        
+            Radko Gudas;TBL;22;2;3;38 <br/>
+        
+            Tyler Toffoli;LAK;10;2;3;2 <br/>
+        
+            James Wright;WPG;38;2;3;31 <br/>
+        
+            Chris Mueller;NSH;18;2;3;6 <br/>
+        
+            Alex Kovalev;FLA;14;2;3;6 <br/>
+        
+            Jason Spezza;OTT;5;2;3;2 <br/>
+        
+            Joe Vitale;PIT;33;2;3;17 <br/>
+        
+            Philip Larsen;DAL;32;2;3;18 <br/>
+        
+            Brian Boyle;NYR;38;2;3;29 <br/>
+        
+            Colby Armstrong;MTL;37;2;3;12 <br/>
+        
+            David Ullstrom;NYI;20;2;3;6 <br/>
+        
+            Paul Gaustad;NSH;23;2;3;20 <br/>
+        
+            Patrick Bordeleau;COL;46;2;3;70 <br/>
+        
+            Brian Lashoff;DET;31;1;4;15 <br/>
+        
+            Mark Pysyk;BUF;19;1;4;0 <br/>
+        
+            Mikhail Grigorenko;BUF;25;1;4;0 <br/>
+        
+            Kurtis Foster;PHI;23;1;4;25 <br/>
+        
+            Alec Martinez;LAK;27;1;4;10 <br/>
+        
+            Karl Alzner;WSH;48;1;4;14 <br/>
+        
+            Anton Volchenkov;NJD;37;1;4;37 <br/>
+        
+            Braydon Coburn;PHI;33;1;4;41 <br/>
+        
+            Tim Jackman;CGY;42;1;4;76 <br/>
+        
+            Aaron Rome;DAL;27;0;5;18 <br/>
+        
+            Tim Erixon;CBJ;31;0;5;14 <br/>
+        
+            Marty Reasoner;NYI;31;0;5;4 <br/>
+        
+            Radek Dvorak;ANA;9;4;0;2 <br/>
+        
+            Corey Potter;EDM;33;3;1;6 <br/>
+        
+            Alexander Sulzer;BUF;17;3;1;10 <br/>
+        
+            J.T. Miller;NYR;26;2;2;8 <br/>
+        
+            Kevin Westgarth;CAR;31;2;2;45 <br/>
+        
+            Kris Versteeg;FLA;10;2;2;8 <br/>
+        
+            Ondrej Palat;TBL;14;2;2;0 <br/>
+        
+            Jean-Gabriel Pageau;OTT;9;2;2;0 <br/>
+        
+            Robert Bortuzzo;PIT;15;2;2;27 <br/>
+        
+            Tomas Vincour;DAL, COL;17;2;2;4 <br/>
+        
+            Mark Stuart;WPG;42;2;2;53 <br/>
+        
+            Mike Santorelli;FLA, WPG;34;2;2;2 <br/>
+        
+            Chris Thorburn;WPG;42;2;2;70 <br/>
+        
+            Chad LaRose;CAR;35;2;2;29 <br/>
+        
+            Ian White;DET;25;2;2;4 <br/>
+        
+            Brooks Laich;WSH;9;1;3;6 <br/>
+        
+            Thomas Hickey;NYI;39;1;3;8 <br/>
+        
+            Stefan Elliott;COL;18;1;3;2 <br/>
+        
+            Dana Tyrell;TBL;20;1;3;4 <br/>
+        
+            Zach Redmond;WPG;8;1;3;12 <br/>
+        
+            James Sheppard;SJS;31;1;3;12 <br/>
+        
+            Henrik Tallinder;NJD;25;1;3;10 <br/>
+        
+            Stephen Weiss;FLA;17;1;3;25 <br/>
+        
+            Ladislav Smid;EDM;48;1;3;55 <br/>
+        
+            Nicklas Grossmann;PHI;30;1;3;21 <br/>
+        
+            Eric Tangradi;PIT, WPG;41;1;3;22 <br/>
+        
+            Adam McQuaid;BOS;32;1;3;60 <br/>
+        
+            Chris Bourque;BOS;18;1;3;6 <br/>
+        
+            Mike Rupp;NYR, MIN;40;1;3;79 <br/>
+        
+            Colton Orr;TOR;43;1;3;155 <br/>
+        
+            Shane O'Brien;COL;25;0;4;42 <br/>
+        
+            Erik Gudbranson;FLA;32;0;4;47 <br/>
+        
+            Jake Gardiner;TOR;12;0;4;0 <br/>
+        
+            Adam Pardy;BUF;14;0;4;12 <br/>
+        
+            Erik Johnson;COL;30;0;4;18 <br/>
+        
+            Robyn Regehr;BUF, LAK;40;0;4;23 <br/>
+        
+            Brian Strait;NYI;16;0;4;6 <br/>
+        
+            Adrian Aucoin;CBJ;34;0;4;14 <br/>
+        
+            Adam Hall;TBL, CAR, PHI;35;0;4;23 <br/>
+        
+            Radek Martinek;NYI;13;3;0;4 <br/>
+        
+            Korbinian Holzer;TOR;22;2;1;28 <br/>
+        
+            Todd Bertuzzi;DET;7;2;1;2 <br/>
+        
+            Teemu Hartikainen;EDM;16;1;2;4 <br/>
+        
+            Ryan Wilson;COL;8;0;3;6 <br/>
+        
+            Jeff Schultz;WSH;15;0;3;6 <br/>
+        
+            Dave Dziurzynski;OTT;6;2;0;2 <br/>
+        
+            Tim Kennedy;SJS;6;2;0;2 <br/>
+        
+            Tom Sestito;PHI;7;2;0;12 <br/>
+        
+            Stephane Da Costa;OTT;9;1;1;0 <br/>
+        
+            Chris Kreider;NYR;11;1;1;6 <br/>
+        
+            Jim Slater;WPG;19;1;1;15 <br/>
+        
+            Stefan Matteau;NJD;11;1;1;4 <br/>
+        
+            Jamal Mayers;CHI;10;0;2;14 <br/>
+        
+            Anthony Peluso;WPG;3;0;2;9 <br/>
+        
+            Tom Poti;WSH;10;0;2;2 <br/>
+        
+            Zbynek Michalek;PHX;19;0;2;10 <br/>
+        
+            Zac Dalpe;CAR;7;0;2;0 <br/>
+        
+            Peter Regin;OTT;13;0;2;4 <br/>
+        
+            Eric Belanger;EDM;15;0;2;10 <br/>
+        
+            Tim Brent;CAR;13;0;2;8 <br/>
+        
+            Joey Crabb;WSH;18;1;0;4 <br/>
+        
+            Tim Wallace;CAR;11;1;0;17 <br/>
+        
+            Cody Goloubef;CBJ;6;1;0;0 <br/>
+        
+            Patrick Maroon;ANA;5;1;0;0 <br/>
+        
+            Matt Fraser;DAL;2;1;0;0 <br/>
+        
+            Marco Scandella;MIN;6;1;0;4 <br/>
+        
+            Aaron Volpatti;VAN;16;1;0;28 <br/>
+        
+            Ryan White;MTL;13;1;0;48 <br/>
+        
+            George Parros;FLA;17;1;0;24 <br/>
+        
+            Arron Asham;NYR;12;1;0;17 <br/>
+        
+            Matt Anderson;NJD;2;0;1;0 <br/>
+        
+            Anton Babchuk;CGY;2;0;1;0 <br/>
+        
+            Brendan Mikkelson;TBL;2;0;1;2 <br/>
+        
+            Jamie Oleksiak;DAL;6;0;1;2 <br/>
+        
+            Andreas Nodl;CAR;6;0;1;2 <br/>
+        
+            Jamie Langenbrunner;STL;4;0;1;0 <br/>
+        
+            Blair Jones;CGY;11;0;1;6 <br/>
+        
+            Anton Lander;EDM;4;0;1;2 <br/>
+        
+            Benn Ferriero;NYR;4;0;1;0 <br/>
+        
+            Kaspars Daugavins;OTT;12;0;1;0 <br/>
+        
+            Colton Sceviour;DAL;1;0;1;0 <br/>
+        
+            Daniel Carcillo;CHI;1;0;1;0 <br/>
+        
+            Steve Downie;COL;2;0;1;6 <br/>
+        
+            Matt Greene;LAK;1;0;1;4 <br/>
+        
+            Ian Cole;STL;12;0;1;10 <br/>
+        
+            Mattias Tedenby;NJD;4;0;1;2 <br/>
+        
+            Roman Hamrlik;WSH;4;0;1;2 <br/>
+        
+            Scott Hannan;NSH;20;0;1;11 <br/>
+        
+            Bryce Salvador;NJD;19;0;1;12 <br/>
+        
+            Justin Falk;MIN;15;0;1;9 <br/>
+        
+            Keaton Ellerby;FLA, LAK;17;0;1;42 <br/>
+        
+            Keith Ballard;VAN;19;0;1;16 <br/>
+        
+            Jeff Halpern;NYR;17;0;1;6 <br/>
+        
+            Tomas Kaberle;MTL;6;0;1;0 <br/>
+        
+            Ed Jovanovski;FLA;5;0;1;0 <br/>
+        
+            Matthew Irwin;SJS;3;0;1;2 <br/>
+        
+            Joe Finley;NYI;11;0;1;18 <br/>
+        
+            Tyson Strachan;FLA;14;0;1;12 <br/>
+        
+            Mikael Samuelsson;DET;3;0;1;0 <br/>
+        
+            Andrew Desjardins;SJS;12;0;1;36 <br/>
+        
+            Jacob Josefson;NJD;16;0;1;2 <br/>
+        
+            Pierre-Cedric Labrie;TBL;1;0;0;5 <br/>
+        
+            Aaron Johnson;BOS;4;0;0;4 <br/>
+        
+            Mark Borowiecki;OTT;6;0;0;18 <br/>
+        
+            Jeremy Welsh;CAR;1;0;0;0 <br/>
+        
+            Kent Huskins;DET;7;0;0;4 <br/>
+        
+            Steve Eminger;NYR;3;0;0;0 <br/>
+        
+            Tom Wandell;DAL;7;0;0;4 <br/>
+        
+            Nate Prosser;MIN;4;0;0;0 <br/>
+        
+            Scott Laughton;PHI;5;0;0;0 <br/>
+        
+            Darroll Powe;MIN, NYR;11;0;0;11 <br/>
+        
+            Tanner Glass;PIT;14;0;0;12 <br/>
+        
+            Manny Malhotra;VAN;9;0;0;0 <br/>
+        
+            Andrej Meszaros;PHI;4;0;0;0 <br/>
+        
+            Kyle Quincey;DET;13;0;0;10 <br/>
+        
+            Hal Gill;NSH;12;0;0;6 <br/>
+        
+            Cory Sarich;CGY;5;0;0;0 <br/>
+        
+            Mike Komisarek;TOR;4;0;0;2 <br/>
+        
+            Stu Bickel;NYR;4;0;0;24 <br/>
+        
+            David Rundblad;PHX;3;0;0;0 <br/>
+        
+            Jordan Hendry;ANA;1;0;0;0 <br/>
+        
+            Carlo Colaiacovo;DET;2;0;0;0 <br/>
+        
+            Adam Burish;SJS;13;0;0;11 <br/>
+        
+            Brian Lee;TBL;11;0;0;14 <br/>
+        
+            Zenon Konopka;MIN;9;0;0;14 <br/>
+        
+            Matt Carkner;NYI;9;0;0;20 <br/>
+        
+            Devante Smith-Pelly;ANA;3;0;0;0 <br/>
+        
+            Zach Boychuk;CAR;1;0;0;0 <br/>
+        
+            Michael Caruso;FLA;2;0;0;0 <br/>
+        
+            Scott Nichol;STL;7;0;0;17 <br/>
+        
+            Rickard Rakell;ANA;4;0;0;0 <br/>
+        
+            Derek Smith;CGY;6;0;0;2 <br/>
+        
+            Mark Scheifele;WPG;4;0;0;0 <br/>
+        
+            Sheldon Brookbank;CHI;8;0;0;4 <br/>
+        
+            Brandon Bollig;CHI;3;0;0;12 <br/>
+        
+            Brandon Segal;NYR;1;0;0;2 <br/>
+        
+            Mike Brown;TOR;4;0;0;20 <br/>
+        
+            John Scott;BUF;2;0;0;5 <br/>
+        
+            Brian McGrattan;NSH;2;0;0;0 <br/>
+        
+            Eric Boulton;NYI;1;0;0;0 <br/>
+        
+            Patrick Kaleta;BUF;6;0;0;18 <br/>
+        
+            Jan Mursak;DET;1;0;0;2 <br/>
+        
+            Matt Ellis;BUF;2;0;0;0 <br/>
+        
+            Cam Janssen;NJD;2;0;0;0 <br/>
+        
+            Ben Eager;EDM;1;0;0;5 <br/>
+        
+            Alexandre Bolduc;PHX;7;0;0;2 <br/>
+        
+            Eric Wellwood;PHI;4;0;0;0 <br/>
+        
+
+    </body>
+</html>
